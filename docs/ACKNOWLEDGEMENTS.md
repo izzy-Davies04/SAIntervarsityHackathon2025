@@ -27,6 +27,6 @@ This document lists all **third-party repositories, modules, libraries, framewor
 
 > Google Gemini API (@google/genai)
 
-        # Description: The official Google AI SDK used for all AI-driven features, including generating the buddy's motivational messages, personality, and providing SMART goal suggestions.
+ > Description: The official Google AI SDK used for all AI-driven features, including generating the buddy's motivational messages, personality, and providing SMART goal suggestions.
 
-        # Provider: Google
+ > Provider: Google
