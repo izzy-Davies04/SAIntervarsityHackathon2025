@@ -13,7 +13,7 @@ Donn
 | Name     | Role                | Institution           | Discord Handle | Email |
 |----------|---------------------|-----------------------| -------------------|-------------|
 | Ipfi Amstrong Ramalata   | Backend Developer, Frontend Developer & Designer  | University of Stellenbosch| izzydavies. | <izzyipfi@gmail.com> |
-| Ropafadzo Donza   |   | University of Stellenbosch | ropie0741 | "ropadonza7@gmail.com" <ropadonza7@gmail.com> |
+| Ropafadzo Donza   |  Designer, Q & A Testing | University of Stellenbosch | ropie0741 |  <ropadonza7@gmail.com> |
 
 ## 🏫 Institution
 ``` c
