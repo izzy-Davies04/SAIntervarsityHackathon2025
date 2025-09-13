@@ -13,20 +13,20 @@ This document lists all **third-party repositories, modules, libraries, framewor
 ## 📦 Libraries, Frameworks & Submodules
 | Name                 | Link / Repo                                           | Author(s)       | Usage                  |
 |----------------------|-------------------------------------------------------|-----------------|------------------------|
-| IntricatePointers    | https://github.com/DnA-IntRicate/IntricatePointers    | Adam Foflonker  | Memory management      |
+| Tailwind CSS           | https://github.com/tailwindlabs/tailwindcss-intellisense.git | Adam Wathan, Jonathan Reinink, David Hemphill, and Steve Schoger of Tailwind Labs.  | user interface     |
+| Recharts            | https://github.com/recharts/recharts.git | Recharts team | Progress Analytics      |
+| date-fns            | https://github.com/date-fns/date-fns.git | Sasha Koss  | formatting dates, calculating time differences, and managing daily resets.      |
+| @google/genai        | https://github.com/GoogleCloudPlatform/agent-starter-pack.git   | Google  |  buddy's AI-driven motivational messages, insights, and SMART goal suggestions.      |
+| Lottie Player (@lottiefiles/lottie-player)          | https://github.com/thisistherk/fast_obj               | LottieFiles  | animations of the virtual buddy    |
+| fast_obj             | https://github.com/thisistherk/fast_obj               | Richard Knight  | Parsing OBJ files      |
 | fast_obj             | https://github.com/thisistherk/fast_obj               | Richard Knight  | Parsing OBJ files      |
 
 ---
 
 ## 🌐 APIs & Services
-| Name          | Link / Docs                        | Author(s)      | Usage                             |
-|---------------|------------------------------------|----------------|-----------------------------------|
-| OpenWeather   | https://openweathermap.org/api     | Open Weather   | Fetching weather data             |
-| Stripe        | https://stripe.com/docs/api        | Stripe         | Payment handling                  |
 
----
+> Google Gemini API (@google/genai)
 
-## 📊 Datasets
-| Name          | Source                              | Usage                             |
-|---------------|-------------------------------------|-----------------------------------|
-| MNIST         | http://yann.lecun.com/exdb/mnist/   | Training/testing machine learning |
+        # Description: The official Google AI SDK used for all AI-driven features, including generating the buddy's motivational messages, personality, and providing SMART goal suggestions.
+
+        # Provider: Google
