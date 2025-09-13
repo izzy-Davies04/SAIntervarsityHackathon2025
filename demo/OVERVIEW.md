@@ -4,7 +4,7 @@
 
 ## 🎯 Project Name
 ``` c
-// TODO: Enter your project name here
+// BetterBuddy Habit Tracker
 ```
 
 ## 🚀 Summary
