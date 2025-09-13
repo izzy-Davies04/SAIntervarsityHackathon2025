@@ -17,9 +17,7 @@ This document lists all **third-party repositories, modules, libraries, framewor
 | Recharts            | https://github.com/recharts/recharts.git | Recharts team | Progress Analytics      |
 | date-fns            | https://github.com/date-fns/date-fns.git | Sasha Koss  | formatting dates, calculating time differences, and managing daily resets.      |
 | @google/genai        | https://github.com/GoogleCloudPlatform/agent-starter-pack.git   | Google  |  buddy's AI-driven motivational messages, insights, and SMART goal suggestions.      |
-| Lottie Player (@lottiefiles/lottie-player)          | https://github.com/thisistherk/fast_obj               | LottieFiles  | animations of the virtual buddy    |
-| fast_obj             | https://github.com/thisistherk/fast_obj               | Richard Knight  | Parsing OBJ files      |
-| fast_obj             | https://github.com/thisistherk/fast_obj               | Richard Knight  | Parsing OBJ files      |
+| Lottie Player (@lottiefiles/lottie-player)          | https://github.com/LottieFiles/lottie-player.git | LottieFiles  | animations of the virtual buddy    |
 
 ---
 
