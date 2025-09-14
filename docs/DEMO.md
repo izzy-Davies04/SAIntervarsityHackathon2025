@@ -4,22 +4,12 @@
 
 ## ▶️ Running the Application
 ``` c
-// TODO: Explain how to launch the project.
-// Add commands or steps here.
+// see USAGE.md under src
 ```
-``` bash
-# Example
-npm start
-```
-
 ## 🖥️ How to Use
 ``` c
-// TODO: Provide step-by-step usage instructions for judges/users.
+// see USAGE.md under src
 ```
-1. Step 1 -> Do this
-2. Step 2 -> Then this
-3. Step 3 -> See the output/result
-
 ## 🎥 Demo
 ``` c
 // TODO: Link your demo video and PowerPoint here
