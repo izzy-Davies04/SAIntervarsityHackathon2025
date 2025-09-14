@@ -3,7 +3,7 @@
 
 ## 🎯 Project Name
 ``` c
-// BetterBuddy Habit Tracker
+BetterBuddy Habit Tracker
 ```
 
 ## 🚀 Summary
