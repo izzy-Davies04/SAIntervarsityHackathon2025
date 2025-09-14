@@ -9,6 +9,7 @@
 ## 🚀 Summary
 ``` c
 // BetterBuddy is a gamified habit tracker designed to make self-improvement engaging and fun. Users build positive habits to care for a virtual companion whose health and happiness are directly tied to their real-world consistency. The app leverages AI-powered motivation, detailed analytics, and unlockable customizations to help users stay on track and achieve their goals.
+//
 ```
 
 ## ✨ Key Features
@@ -20,6 +21,7 @@
     Advanced Habit Management: Track both positive habits to build and negative habits to avoid, with unique reward and penalty systems.
     Optional Medication Tracker: An integrated module to help you stay consistent with daily medication, featuring its own streak counter and urgent reminders.
     Detailed Analytics: Visualize your journey with charts for streak progression, habit categories, and sleep patterns. Export your data to CSV or your schedule to a calendar file.
+//
 ```
 
 ## 💡 Inspiration
@@ -28,6 +30,7 @@
 
 When users show up for their habits, their buddy thrives — making progress feel immediate and emotionally satisfying.
 With a built-in medication tracker tied into gamified habit loops, BetterBuddy provides a gentle, fun, and effective way to support consistency in daily care routines.
+//
 ```
 
 ## 📌 Future Improvements
@@ -45,4 +48,5 @@ With a built-in medication tracker tied into gamified habit loops, BetterBuddy p
 *   **Expanded AI Capabilities:**
     *   Develop a conversational interface to allow users to "chat" with their buddy for motivation.
     *   Enable the AI to proactively suggest new habits based on user patterns and goals.
+//
 ```
