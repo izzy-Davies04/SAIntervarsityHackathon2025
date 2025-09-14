@@ -15,13 +15,17 @@ Welcome to the official **Hackathon Submission Template** for the **South Africa
 │   ├── ACKNOWLEDGEMENTS.md
 │   ├── SETUP.md
 │   ├── TEAM.md
-│   └── USAGE.md
 ├── scripts/
 │   └── README.md
 ├── src/
 │   └── README.md
-├── vendor/
-│   └── README.md
+│   |__betterbuddy-habit-tracker/
+|                       |__components
+|                       |__hooks
+|                       |__services
+|                       |__LISENCES.md
+|                       |__README.md
+|                       |__USAGE.md
 ├── .dockerignore
 ├── .editorconfig
 ├── .gitattributes
