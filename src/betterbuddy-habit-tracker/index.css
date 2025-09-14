@@ -1,0 +1,42 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: 'Poppins', sans-serif;
+}
+
+.balloon {
+  width: 70px;
+  height: 90px;
+  border-radius: 50%;
+  position: absolute;
+  bottom: -100px;
+  animation: rise 8s infinite ease-in;
+  z-index: 100;
+}
+
+.balloon::after {
+  content: '';
+  position: absolute;
+  border: 1px solid rgba(0,0,0,0.2);
+  bottom: -5px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 0;
+  height: 0;
+  border-left: 5px solid transparent;
+  border-right: 5px solid transparent;
+  border-bottom: 10px solid;
+}
+
+@keyframes rise {
+  0% {
+    transform: translateY(0) rotate(0deg);
+    opacity: 1;
+  }
+  100% {
+    transform: translateY(-120vh) rotate(720deg);
+    opacity: 0;
+  }
+}

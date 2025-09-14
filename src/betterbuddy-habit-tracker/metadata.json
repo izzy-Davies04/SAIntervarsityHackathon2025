@@ -1,0 +1,5 @@
+{
+  "name": "BetterBuddy Habit Tracker",
+  "description": "A motivational habit tracker where you build self-improvement habits to keep your virtual buddy alive and well. Your companion reacts to your progress, earning XP and streaks, and sends reminders if you forget.",
+  "requestFramePermissions": []
+}
