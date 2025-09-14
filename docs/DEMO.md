@@ -16,7 +16,7 @@
 ```
 Check out the Demos: 
 - [Demo Video](../demo/demo.mp4)
-- [Demo Presentation](../demo/demo.pptx)
+- [Demo Presentation](assets/BetterBuddy.pptx)
 
 ## 📌 Notes
 ``` c
