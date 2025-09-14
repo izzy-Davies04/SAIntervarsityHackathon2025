@@ -34,18 +34,18 @@ With a built-in medication tracker tied into gamified habit loops, BetterBuddy p
 
 ## 📌 Future Improvements
 ``` c
-*   **Full Backend Integration:** Replace `localStorage` with a proper backend service (e.g., Firebase, Supabase) to enable secure user authentication, data persistence across devices, and cloud storage.
-*   **Community & Social Features:** Implement the "Community" feature, allowing users to add friends, share progress, join groups for accountability, or compete on leaderboards.
-*   **Deeper Gamification:**
-    *   Introduce an in-app currency earned by completing habits, which can be spent in a "shop" for new customizations or one-time use items (e.g., "Health Potion").
-    *   Add an achievement system with badges for reaching specific milestones (e.g., "30-Day Streak," "Master of Hydration").
-   **Real-World API Integrations:**
-    *   Connect to a live weather API (like OpenWeatherMap) for more dynamic and relevant compulsory habits.
-    *   Integrate with health services like Google Fit or Apple Health to automatically import data for physical activity, sleep, or water intake.
-*   **Enhanced Notifications:** Implement true push notifications using a service worker to send reminders even when the application is not open in the browser.
-*   **Advanced Customization:** Allow users more control over their buddy's appearance (e.g., color changes) and the ability to customize the dashboard layout.
-*   **Expanded AI Capabilities:**
-    *   Develop a conversational interface to allow users to "chat" with their buddy for motivation.
-    *   Enable the AI to proactively suggest new habits based on user patterns and goals.
+Full Backend Integration: Replace `localStorage` with a proper backend service (e.g., Firebase, Supabase) to enable secure user authentication, data persistence across devices, and cloud storage.
+Community & Social Features: Implement the "Community" feature, allowing users to add friends, share progress, join groups for accountability, or compete on leaderboards.
+Deeper Gamification:
+    Introduce an in-app currency earned by completing habits, which can be spent in a "shop" for new customizations or one-time use items (e.g., "Health Potion").
+    Add an achievement system with badges for reaching specific milestones (e.g., "30-Day Streak," "Master of Hydration").
+Real-World API Integrations:
+    Connect to a live weather API (like OpenWeatherMap) for more dynamic and relevant compulsory habits.
+    Integrate with health services like Google Fit or Apple Health to automatically import data for physical activity, sleep, or water intake.
+Enhanced Notifications: Implement true push notifications using a service worker to send reminders even when the application is not open in the browser.
+Advanced Customization: Allow users more control over their buddy's appearance (e.g., color changes) and the ability to customize the dashboard layout.
+Expanded AI Capabilities:
+    Develop a conversational interface to allow users to "chat" with their buddy for motivation.
+    Enable the AI to proactively suggest new habits based on user patterns and goals.
 
 ```
