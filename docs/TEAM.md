@@ -21,5 +21,5 @@ Donn
 ```
 
 ## 📧 Other Contact Info
-- GitHub Repo: <https://github.com/user-name/repo-name>
+- GitHub Repo: <https://github.com/izzy-Davies04/SAIntervarsityHackathon2025.git>
 - Other Info (if available): LinkedIn, Website, etc.
